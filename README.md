@@ -1,12 +1,16 @@
-# _RecipeRealm_
+# _Rustic Recipes_
 
 ## Project Details
 
-A recipe app made using ReactJS. User can **search** for meals and recipes in `search` page. User can see **all the categories** in `category` page and can get all meals **filtered by category** from the `category-search` page and user can get the **recipe details** and all the other instructions with **available youtube video** from the `recipe` page.
+Users can search for meals and recipes on the Search page.
+The Category page displays all available meal categories.
+The Category Search page allows users to browse meals filtered by category.
+Users can add recipes to their Favorites and access them anytime.
+The Recipe page provides detailed instructions, including an embedded YouTube video for guided cooking.
 
 Api Used - [Meal Db Api](https://www.themealdb.com/api.php)
 
-### Live Link - [https://recipe-realm-olive.vercel.app/](https://recipe-realm-olive.vercel.app/)
+### Link - [https://roaring-khapse-818f1b.netlify.app/]
 
 ## Tools
 
